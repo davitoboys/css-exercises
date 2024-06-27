@@ -1,10 +1,10 @@
-p{
+.odd {
     background-color: crimson;
     font-family: Verdana, DejaVu , sans-serif;
 }
-.default{
+#two{
     color: aqua;
-    font-size: 36px;
+    font-size: 50px;
 }
 .test{
     font-size: 24px;
